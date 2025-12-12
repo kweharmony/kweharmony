@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Vibe+Coder;Always+learning+new+things)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -13,6 +13,14 @@
 Just a developer who loves building stuff that actually works and looks good doing it. I'm all about creating practical solutions that make life easier - whether it's transcription tools, database systems, or just beautiful interfaces.
 
 When I'm not debugging at 3 AM, you'll find me vibing with code and experimenting with new tech. I believe good software should feel natural and effortless to use.
+
+<br/>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
 
 ## 🛠️ My Toolkit
 
@@ -40,17 +48,9 @@ Here's what I work with on a daily basis:
 🎨 UI/UX that doesn't make users cry  
 🤖 AI Integration (Whisper, Gemini)
 
-<br/>
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
-
-</div>
-
 ## 🚀 What I've Been Building
 
-<img align="right" alt="Pixel Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### [Salpa](https://github.com/kweharmony/salpa) 🔄
 **Browser-based file converter that respects your privacy**
@@ -82,11 +82,7 @@ Always down to chat about tech, collaborate on interesting projects, or just exc
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">
   
@@ -94,7 +90,7 @@ Always down to chat about tech, collaborate on interesting projects, or just exc
 
 *Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out* ✌️
 
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Pixel Star" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
 
 ![Visitor Count](https://profile-counter.glitch.me/kweharmony/count.svg)
 
