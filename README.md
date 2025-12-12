@@ -89,6 +89,4 @@ Always down to chat about tech, collaborate on interesting projects, or just exc
 <div align="center">
 *Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out* ✌️
 
-![Visitor Count](https://profile-counter.glitch.me/kweharmony/count.svg)
-
 </div>
