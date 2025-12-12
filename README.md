@@ -14,6 +14,14 @@ Just a developer who loves building stuff that actually works and looks good doi
 
 When I'm not debugging at 3 AM, you'll find me vibing with code and experimenting with new tech. I believe good software should feel natural and effortless to use.
 
+<br/>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
 ## 🛠️ My Toolkit
 
 Here's what I work with on a daily basis:
@@ -39,14 +47,6 @@ Here's what I work with on a daily basis:
 ✨ Vibe Coding - making interfaces that just *feel* right  
 🎨 UI/UX that doesn't make users cry  
 🤖 AI Integration (Whisper, Gemini)
-
-<br/>
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-</div>
 
 ## 🚀 What I've Been Building
 
