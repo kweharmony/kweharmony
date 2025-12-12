@@ -1,11 +1,5 @@
 # Hey! 👋 I'm kweharmony
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Vibe+Coder;Always+learning+new+things)](https://git.io/typing-svg)
-
-</div>
-
 ## 💫 About Me
 
 Just a developer who loves building stuff that actually works and looks good doing it. I'm all about creating practical solutions that make life easier - whether it's transcription tools, database systems, or just beautiful interfaces.
