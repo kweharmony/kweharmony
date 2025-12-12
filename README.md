@@ -76,10 +76,6 @@ Simple schedule tracker.
 
 Always down to chat about tech, collaborate on interesting projects, or just exchange memes about programming. Hit me up!
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 <div align="center">
 
 *Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out* ✌️
