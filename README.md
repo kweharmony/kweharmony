@@ -83,12 +83,12 @@ Here's what I work with on a daily basis:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kweharmony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kweharmony&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=kweharmony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kweharmony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kweharmony&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kweharmony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
@@ -114,3 +114,5 @@ Always down to chat about tech, collaborate on interesting projects, or just exc
 ![Visitor Count](https://profile-counter.glitch.me/kweharmony/count.svg)
 
 </div>
+
+
