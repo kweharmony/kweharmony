@@ -48,8 +48,6 @@ Here's what I work with on a daily basis:
 
 ## 🚀 What I've Been Building
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ### [Salpa](https://github.com/kweharmony/salpa) 🔄
 **Browser-based file converter that respects your privacy**
 
@@ -83,13 +81,7 @@ Always down to chat about tech, collaborate on interesting projects, or just exc
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">
-  
-**"Code is poetry written in logic"**
 
 *Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out* ✌️
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
-
-![Visitor Count](https://profile-counter.glitch.me/kweharmony/count.svg)
 
 </div>
