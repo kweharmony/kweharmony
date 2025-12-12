@@ -36,7 +36,7 @@ Here's what I work with on a daily basis:
 **Special Skills:**  
 ✨ Vibe Coding - making interfaces that just *feel* right  
 🎨 UI/UX that doesn't make users cry  
-🤖 AI Integration (Whisper, GPT)
+🤖 AI Integration (Whisper, Gemini)
 
 ## 🚀 What I've Been Building
 
@@ -60,22 +60,6 @@ A web app for converting files between different formats - images, documents, au
 **Live demo:** [salpa.vercel.app](https://salpa.vercel.app/)
 
 No file size limits, no watermarks, completely free. Just drag, convert, download.
-
-### MindeSync
-An AI-powered transcription service that turns messy audio recordings into clean, searchable text. Made it specifically for students who need to process lectures and notes quickly.
-
-- React + TypeScript for that smooth frontend experience
-- FastAPI backend because Python is just nice to work with
-- PostgreSQL for reliable data storage
-- Whisper & Gemini for the AI magic
-- All wrapped up in Docker
-
-### Railway Ticket Sales System
-A full-featured database management system with proper access control. Built this to understand how large-scale transactional systems work.
-
-- 31-table PostgreSQL schema (yeah, it got complex)
-- Role-based permissions for different user types
-- Handles concurrent transactions smoothly
 
 ### [University Timetable](https://github.com/kweharmony/university-timetable)
 Simple schedule tracker.
