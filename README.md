@@ -4,6 +4,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Vibe+Coder;Always+learning+new+things)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 ## 💫 About Me
@@ -38,7 +40,17 @@ Here's what I work with on a daily basis:
 🎨 UI/UX that doesn't make users cry  
 🤖 AI Integration (Whisper, Gemini)
 
+<br/>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
 ## 🚀 What I've Been Building
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### [Salpa](https://github.com/kweharmony/salpa) 🔄
 **Browser-based file converter that respects your privacy**
@@ -68,9 +80,18 @@ Simple schedule tracker.
 
 Always down to chat about tech, collaborate on interesting projects, or just exchange memes about programming. Hit me up!
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">
+  
+**"Code is poetry written in logic"**
+
 *Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out* ✌️
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+
+![Visitor Count](https://profile-counter.glitch.me/kweharmony/count.svg)
 
 </div>
