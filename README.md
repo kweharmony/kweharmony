@@ -4,8 +4,6 @@
 
 Just a developer who loves building stuff that actually works and looks good doing it. I'm all about creating practical solutions that make life easier - whether it's transcription tools, database systems, or just beautiful interfaces.
 
-When I'm not debugging at 3 AM, you'll find me vibing with code and experimenting with new tech. I believe good software should feel natural and effortless to use.
-
 <br/>
 
 <div align="center">
