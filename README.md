@@ -64,14 +64,6 @@ No file size limits, no watermarks, completely free. Just drag, convert, downloa
 ### [University Timetable](https://github.com/kweharmony/university-timetable)
 Simple schedule tracker.
 
-## 💬 Let's Connect!
-
-Always down to chat about tech, collaborate on interesting projects, or just exchange memes about programming. Hit me up!
-
 <div align="center">
-
-<br/>
-
-*Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out* ✌️
 
 </div>
