@@ -33,11 +33,6 @@ Here's what I work with on a daily basis:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Special Skills:**  
-✨ Vibe Coding - making interfaces that just *feel* right  
-🎨 UI/UX that doesn't make users cry  
-🤖 AI Integration (Whisper, Gemini)
-
 ## 🚀 What I've Been Building
 
 ### [Salpa](https://github.com/kweharmony/salpa) 🔄
