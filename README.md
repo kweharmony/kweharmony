@@ -1,4 +1,4 @@
-# Hey! 👋 I'm kweharmony
+# Hey! 👋 I'm sesitskii
 
 ## 💫 About Me
 
