@@ -8,8 +8,7 @@ Just a developer who loves building stuff that actually works and looks good doi
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<img src="https://pin.it/d8rDq6Hvx" width="500">
+<div class="tenor-gif-embed" data-postid="15680289644544200178" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/konata-lucky-star-thinking-loading-anime-gif-15680289644544200178">Konata Lucky Star GIF</a>from <a href="https://tenor.com/search/konata-gifs">Konata GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </div>
 
