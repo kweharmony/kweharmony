@@ -6,11 +6,12 @@ Just a developer who loves building stuff that actually works and looks good doi
 
 <br/>
 
-<div align="center">
-  
-<div class="tenor-gif-embed" data-postid="15680289644544200178" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/konata-lucky-star-thinking-loading-anime-gif-15680289644544200178">Konata Lucky Star GIF</a>from <a href="https://tenor.com/search/konata-gifs">Konata GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="15680289644544200178" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+  <a href="https://tenor.com/view/konata-lucky-star-thinking-loading-anime-gif-15680289644544200178">Konata Lucky Star GIF</a>
+  from 
+  <a href="https://tenor.com/search/konata-gifs">Konata GIFs</a>
+</div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-</div>
 
 ## 🛠️ My Toolkit
 
