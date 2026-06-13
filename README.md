@@ -6,12 +6,9 @@ Just a developer who loves building stuff that actually works and looks good doi
 
 <br/>
 
-<div class="tenor-gif-embed" data-postid="15680289644544200178" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-  <a href="https://tenor.com/view/konata-lucky-star-thinking-loading-anime-gif-15680289644544200178">Konata Lucky Star GIF</a>
-  from 
-  <a href="https://tenor.com/search/konata-gifs">Konata GIFs</a>
-</div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<div align="center">
+  <img src="assets/konata.gif" width="400">
+</div>
 
 ## 🛠️ My Toolkit
 
@@ -39,6 +36,31 @@ Here's what I work with on a daily basis:
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
 
 ## 🚀 What I've Been Building
+
+### [MindeSync](https://github.com/kweharmony/student-ai-assistant) 🎓
+**Turn lecture recordings into ready-to-use study materials with AI**
+
+A full-stack platform that takes a lecture audio file and turns it into clean, structured notes. Upload audio → it's transcribed locally with Whisper → an LLM cleans it up and generates summaries, terms, questions and cheat sheets → export or publish to your group's shared knowledge base. Built as a team project where I led development and handled the frontend, infra and UI/UX.
+
+**What it does:**
+- **Local transcription** — audio (up to 100MB, any popular format) → text via OpenAI Whisper on a separate GPU worker, audio never leaves to third parties
+- **7 AI modes** — short & detailed summaries, key terms, self-check questions, topic deep-dives, cheat sheets, and inline fragment explanations
+- **Smart long-text handling** — Multi-Step Generation splits a lecture into themes and generates them in parallel to beat the LLM output limit
+- **Shared catalog** — faculty → direction → stream → course → semester → discipline hierarchy, with moderation by group heads and admins
+- **Real-time whiteboards** (Excalidraw) — collaborative drawing with live cursors over WebSocket + Redis
+- **Export** to PDF, DOCX, TXT and Markdown; rich editor with KaTeX math rendering
+- Roles (student / teacher / admin), free/pro tiers with rolling-window quotas
+
+**Tech behind it:**
+- React 18 + TypeScript + Tailwind + Framer Motion + TipTap editor
+- FastAPI + SQLAlchemy (async) + PostgreSQL + Redis + Alembic
+- OpenAI Whisper (CPU/CUDA) on a standalone polling worker with heartbeat & retry
+- LLM via OpenAI-compatible API; Node + Playwright/Chromium PDF service
+- Docker Compose (6 services) behind Nginx, GitHub Actions CI/CD
+
+**Live:** [mindesync.ru](https://mindesync.ru)
+
+Drop in a recording, get a polished summary, and share it with your whole stream.
 
 ### [Mestia](https://github.com/kweharmony/mestia) ▼
 **Cross-platform desktop app for downloading videos & organizing a media library**
