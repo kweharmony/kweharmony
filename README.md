@@ -1,12 +1,12 @@
 ## Hey! 👋 I'm sesitskii
 
+Just a developer who loves building stuff that actually works and looks good doing it. I'm all about creating practical solutions that make life easier - whether it's transcription tools, database systems, or just beautiful interfaces.
+
 <table>
 <tr>
 <td width="40%" align="center">
 
 <img src="konata-lucky-star.gif" width="300">
-
-Just a developer who loves building stuff that actually works and looks good doing it. I'm all about creating practical solutions that make life easier - whether it's transcription tools, database systems, or just beautiful interfaces.
 
 </td>
 <td width="60%" valign="top">
