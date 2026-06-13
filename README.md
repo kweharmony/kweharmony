@@ -1,6 +1,6 @@
 # Hey! 👋 I'm sesitskii
 
-## 💫 About Me
+## About Me
 
 Just a developer who loves building stuff that actually works and looks good doing it. I'm all about creating practical solutions that make life easier - whether it's transcription tools, database systems, or just beautiful interfaces.
 
@@ -10,7 +10,7 @@ Just a developer who loves building stuff that actually works and looks good doi
   <img src="konata-lucky-star.gif" width="400">
 </div>
 
-## 🛠️ My Toolkit
+## My Toolkit
 
 Here's what I work with on a daily basis:
 
@@ -35,7 +35,7 @@ Here's what I work with on a daily basis:
 **Desktop:**  
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
 
-## 🚀 What I've Been Building
+## What I've Been Building
 
 ### [MindeSync](https://github.com/kweharmony/student-ai-assistant) 🎓
 **Turn lecture recordings into ready-to-use study materials with AI**
