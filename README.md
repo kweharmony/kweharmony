@@ -37,3 +37,81 @@ Just a developer who loves building stuff that actually works and looks good doi
 </td>
 </tr>
 </table>
+
+## What I've Been Building
+
+### MindeSync 🎓
+**Turn lecture recordings into ready-to-use study materials with AI**
+
+A full-stack platform that takes a lecture audio file and turns it into clean, structured notes. Upload audio → it's transcribed locally with Whisper → an LLM cleans it up and generates summaries, terms, questions and cheat sheets → export or publish to your group's shared knowledge base. Built as a team project where I led development and handled the frontend, infra and UI/UX.
+
+**What it does:**
+- **Local transcription** — audio (up to 100MB, any popular format) → text via OpenAI Whisper on a separate GPU worker, audio never leaves to third parties
+- **7 AI modes** — short & detailed summaries, key terms, self-check questions, topic deep-dives, cheat sheets, and inline fragment explanations
+- **Smart long-text handling** — Multi-Step Generation splits a lecture into themes and generates them in parallel to beat the LLM output limit
+- **Shared catalog** — faculty → direction → stream → course → semester → discipline hierarchy, with moderation by group heads and admins
+- **Real-time whiteboards** (Excalidraw) — collaborative drawing with live cursors over WebSocket + Redis
+- **Export** to PDF, DOCX, TXT and Markdown; rich editor with KaTeX math rendering
+- Roles (student / teacher / admin), free/pro tiers with rolling-window quotas
+
+**Tech behind it:**
+- React 18 + TypeScript + Tailwind + Framer Motion + TipTap editor
+- FastAPI + SQLAlchemy (async) + PostgreSQL + Redis + Alembic
+- OpenAI Whisper (CPU/CUDA) on a standalone polling worker with heartbeat & retry
+- LLM via OpenAI-compatible API; Node + Playwright/Chromium PDF service
+- Docker Compose (6 services) behind Nginx, GitHub Actions CI/CD
+
+**Live:** mindesync.ru
+
+Drop in a recording, get a polished summary, and share it with your whole stream.
+
+### Mestia ▼
+**Cross-platform desktop app for downloading videos & organizing a media library**
+
+A native desktop app that wraps yt-dlp in a clean, themeable interface - download video or audio from 1800+ sites, then keep everything tidy in a built-in media library with its own player. Fast, lightweight (Rust core), works offline.
+
+**What it does:**
+- **Downloads** video (1080p…360p) or audio (MP3/WAV/FLAC) from YouTube, Rutube, VK, TikTok, Vimeo and 1800+ sites
+- **Playlists** - whole list or a range, into their own folder
+- **Parallel background downloads** with a queue, cancel, and resume of interrupted ones
+- **Media library** - folders, drag-and-drop, multi-select (marquee like Explorer), search, real-time file watching
+- **Built-in video & audio player** with a detachable always-on-top mini-window
+- 8 themes, system tray, desktop notifications, custom covers
+
+**Tech behind it:**
+- Tauri v2 (Rust) + React + TypeScript
+- Tailwind CSS v4 + SQLite (tauri-plugin-sql)
+- yt-dlp + ffmpeg bundled as sidecar binaries
+- GitHub Actions auto-building installers for Windows / macOS / Linux
+
+**Downloads:** Releases - Windows (.exe/.msi), macOS (.dmg), Linux (.deb/.rpm/.AppImage).
+
+Choose a format, paste a link, and it just works - even watch in a floating mini-player while you do other things.
+
+### Salpa 🔄
+**Browser-based file converter that respects your privacy**
+
+A web app for converting files between different formats - images, documents, audio, and video. The cool part? Everything happens in your browser. No uploads, no servers, no tracking. Your files never leave your device.
+
+**What it does:**
+- **Images**: PNG ↔ JPG ↔ WebP ↔ BMP ↔ ICO (and more)
+- **Documents**: TXT ↔ MD ↔ JSON ↔ CSV ↔ HTML ↔ XML
+- **Audio**: MP3 ↔ WAV, plus OGG/FLAC/AAC support
+- **Video**: MP4 ↔ WebM ↔ AVI ↔ MOV (using ffmpeg.wasm)
+
+**Tech behind it:**
+- Next.js 16 + React 19 + TypeScript
+- Canvas API for images, Web Audio API for audio
+- ffmpeg.wasm for video processing (25MB, loads on demand)
+- shadcn/ui + Tailwind for the interface
+
+**Live demo:** salpa.vercel.app
+
+No file size limits, no watermarks, completely free. Just drag, convert, download.
+
+### University Timetable
+Simple schedule tracker.
+
+<div align="center">
+
+</div>
