@@ -7,7 +7,7 @@ Just a developer who loves building stuff that actually works and looks good doi
 <br/>
 
 <div align="center">
-  <img src="assets/konata.gif" width="400">
+  <img src="konata.gif" width="400">
 </div>
 
 ## 🛠️ My Toolkit
