@@ -21,6 +21,7 @@ Here's what I work with on a daily basis:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frontend Vibes:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +34,33 @@ Here's what I work with on a daily basis:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Desktop:**  
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+
 ## 🚀 What I've Been Building
+
+### [Mestia](https://github.com/kweharmony/mestia) ▼
+**Cross-platform desktop app for downloading videos & organizing a media library**
+
+A native desktop app that wraps `yt-dlp` in a clean, themeable interface - download video or audio from 1800+ sites, then keep everything tidy in a built-in media library with its own player. Fast, lightweight (Rust core), works offline.
+
+**What it does:**
+- **Downloads** video (1080p…360p) or audio (MP3/WAV/FLAC) from YouTube, Rutube, VK, TikTok, Vimeo and 1800+ sites
+- **Playlists** - whole list or a range, into their own folder
+- **Parallel background downloads** with a queue, cancel, and resume of interrupted ones
+- **Media library** - folders, drag-and-drop, multi-select (marquee like Explorer), search, real-time file watching
+- **Built-in video & audio player** with a detachable always-on-top mini-window
+- 8 themes, system tray, desktop notifications, custom covers
+
+**Tech behind it:**
+- Tauri v2 (Rust) + React + TypeScript
+- Tailwind CSS v4 + SQLite (tauri-plugin-sql)
+- yt-dlp + ffmpeg bundled as sidecar binaries
+- GitHub Actions auto-building installers for Windows / macOS / Linux
+
+**Downloads:** [Releases](https://github.com/kweharmony/mestia/releases/latest) - Windows (.exe/.msi), macOS (.dmg), Linux (.deb/.rpm/.AppImage).
+
+Choose a format, paste a link, and it just works - even watch in a floating mini-player while you do other things.
 
 ### [Salpa](https://github.com/kweharmony/salpa) 🔄
 **Browser-based file converter that respects your privacy**
