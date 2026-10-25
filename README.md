@@ -1,6 +1,6 @@
 ## Hey! 👋 I'm sesitskii
 
-Just a developer who loves building stuff that actually works and looks good doing it. I'm all about creating practical solutions that make life easier - whether it's transcription tools, database systems, or just beautiful interfaces.
+Just a developer who loves building stuff that actually works and looks good doing it. I'm all about creating practical solutions that make life easier - whether it's a media app that runs on desktop and phone, a privacy-first file converter, or just a beautiful interface.
 
 <table>
 <tr>
@@ -31,8 +31,10 @@ Just a developer who loves building stuff that actually works and looks good doi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Desktop:**  
+**Desktop & Mobile:**  
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </td>
 </tr>
@@ -41,27 +43,29 @@ Just a developer who loves building stuff that actually works and looks good doi
 ## What I've Been Building
 
 ### Mestia ▼
-**Cross-platform desktop app for downloading videos & organizing a media library**
+**Download. Keep. Watch. — a video & music downloader with its own media library, for desktop and Android**
 
-A native desktop app that wraps yt-dlp in a clean, themeable interface - download video or audio from 1800+ sites, then keep everything tidy in a built-in media library with its own player. Fast, lightweight (Rust core), works offline.
+<a href="https://kweharmony.github.io/Mestia/?lang=en"><img src="https://raw.githubusercontent.com/kweharmony/Mestia/main/docs/media/promo.en.webp" width="720" alt="Mestia promo: paste a link, download, watch, share nearby" /></a>
+
+A native app that wraps yt-dlp in a clean, themeable interface - download video or audio from 1800+ sites, keep everything tidy in a built-in library with its own player, and share it with your other devices over Wi-Fi. No accounts, no telemetry, everything stays on your device.
 
 **What it does:**
-- **Downloads** video (1080p…360p) or audio (MP3/WAV/FLAC) from YouTube, Rutube, VK, TikTok, Vimeo and 1800+ sites
-- **Playlists** - whole list or a range, into their own folder
-- **Parallel background downloads** with a queue, cancel, and resume of interrupted ones
-- **Media library** - folders, drag-and-drop, multi-select (marquee like Explorer), search, real-time file watching
-- **Built-in video & audio player** with a detachable always-on-top mini-window
-- 8 themes, system tray, desktop notifications, custom covers
+- **Downloads** video (up to 4K) or audio (MP3/M4A/FLAC/WAV) from YouTube, VK, Rutube, TikTok, SoundCloud and 1800+ sites; Spotify & Apple Music links are matched on YouTube
+- **One progress for the final file** - video and audio streams are merged in a hidden temp folder, only the finished file lands in the library; queue, cancel, resume
+- **Media library & player** - folders, drag-and-drop, search, a player with overlay controls and a music-card mode, remembers where you stopped
+- **Nearby** - send files between desktop and phone and **watch together** in sync, straight over your Wi-Fi, no internet needed
+- **Android** - media notification with cover art, playback with the screen off, download progress in the shade, “Share → Download with Mestia”
+- **Ctrl+K** command palette, 8 themes with a matching app icon (even the Android launcher icon), RU / EN / 中文 UI
 
 **Tech behind it:**
-- Tauri v2 (Rust) + React + TypeScript
-- Tailwind CSS v4 + SQLite (tauri-plugin-sql)
-- yt-dlp + ffmpeg bundled as sidecar binaries
-- GitHub Actions auto-building installers for Windows / macOS / Linux
+- Tauri v2 (Rust) + React 18 + TypeScript + Tailwind CSS v4 + Framer Motion
+- SQLite, yt-dlp + ffmpeg bundled as sidecars; on Android a Kotlin plugin over youtubedl-android with MediaSession & foreground services
+- Axum HTTP/WebSocket + UDP discovery for the LAN features, NTP-style clock sync for watch-together
+- GitHub Actions building signed installers and APKs, auto-updates on desktop
 
-**Downloads:** Releases - Windows (.exe/.msi), macOS (.dmg), Linux (.deb/.rpm/.AppImage).
+**Get it:** [website](https://kweharmony.github.io/Mestia/?lang=en) · [releases](https://github.com/kweharmony/Mestia/releases/latest) - Windows (.exe), Linux (AppImage / .deb / Flatpak), Android (APK) · [source](https://github.com/kweharmony/Mestia)
 
-Choose a format, paste a link, and it just works - even watch in a floating mini-player while you do other things.
+Paste a link, grab a coffee, and it's in your library - on your laptop and your phone.
 
 ### Salpa 🔄
 **Browser-based file converter that respects your privacy**
@@ -80,11 +84,6 @@ A web app for converting files between different formats - images, documents, au
 - ffmpeg.wasm for video processing (25MB, loads on demand)
 - shadcn/ui + Tailwind for the interface
 
-**Live demo:** salpa.vercel.app
+**Live demo:** [salpa.vercel.app](https://salpa.vercel.app)
 
 No file size limits, no watermarks, completely free. Just drag, convert, download.
-
-
-<div align="center">
-
-</div>
